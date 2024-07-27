@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avi-Bane
-- 👀 I’m interested in Web 3.0
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Transformer architecture
 - 📫 How to reach me via email - astroavichauhan@gmail.com
 
 <!---
